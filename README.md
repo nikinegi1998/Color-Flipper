@@ -1,3 +1,5 @@
 # Color-Flipper
 
-`npm install`
+
+<copy-button>`npm install`</copy-button>
+<br/>
