@@ -1,5 +1,4 @@
 # Color-Flipper
 
-[copy text="Click Me" content="100OFF"]
-`npm install`
+```npm install```
 <br/>
