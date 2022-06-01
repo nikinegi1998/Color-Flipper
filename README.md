@@ -1,5 +1,5 @@
 # Color-Flipper
 
-
-<copy-button>`npm install`</copy-button>
+[copy text="Click Me" content="100OFF"]
+`npm install`
 <br/>
