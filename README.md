@@ -1,4 +1,6 @@
 # Color-Flipper
 
-```npm install```
+```
+npm install
+```
 <br/>
